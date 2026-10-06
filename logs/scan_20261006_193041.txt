@@ -1,0 +1,16 @@
+SYNTECXHUB PORT SCANNER
+=======================
+Target: 127.0.0.1
+Port Range: 75 - 85
+
+Port 75: CLOSED
+Port 76: CLOSED
+Port 77: CLOSED
+Port 78: CLOSED
+Port 79: CLOSED
+Port 80: CLOSED
+Port 81: CLOSED
+Port 82: CLOSED
+Port 83: CLOSED
+Port 84: CLOSED
+Port 85: CLOSED

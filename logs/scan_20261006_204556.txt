@@ -1,0 +1,15 @@
+SYNTECXHUB PORT SCANNER
+=======================
+Target: 127.0.0.1
+Port Range: 1 - 100
+
+Port 100: CLOSED - UNKNOWN
+
+SCAN SUMMARY
+-------------------------
+Total scanned: 100
+Open ports: 0
+Closed ports: 100
+Timeouts: 0
+Errors: 0
+-------------------------
